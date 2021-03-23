@@ -1,0 +1,16 @@
+#aside{
+    position:fixed;
+    width: 200px;
+    height: auto;;
+    text-align: center;
+    background-color: #63808F;
+    padding:20px 10px;
+    right: 0;
+    z-index: 9999;
+    top: 50%;
+}
+
+figure:hover, figure:active{
+    color: rgb(19, 150, 236);
+    cursor: pointer;
+}
